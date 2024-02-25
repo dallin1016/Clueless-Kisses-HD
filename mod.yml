@@ -6,18 +6,34 @@ assets:
   method: copy
   source:
   - name: obj/W_EX010_40.mdlx
+- name: obj/W_EX010_40.a.us
+  method: copy
+  source:
+  - name: obj/W_EX010_40.a.us
 - name: obj/W_EX010_40_NM.mdlx
   method: copy
   source:
   - name: obj/W_EX010_40_NM.mdlx
+- name: obj/W_EX010_40_NM.a.us
+  method: copy
+  source:
+  - name: obj/W_EX010_40_NM.a.us
 - name: obj/W_EX010_40_TR.mdlx
   method: copy
   source:
   - name: obj/W_EX010_40_TR.mdlx
+- name: obj/W_EX010_40_TR.a.us
+  method: copy
+  source:
+  - name: obj/W_EX010_40_TR.a.us
 - name: obj/W_EX010_40_WI.mdlx
   method: copy
   source:
   - name: obj/W_EX010_40_WI.mdlx
+- name: obj/W_EX010_40_WI.a.us
+  method: copy
+  source:
+  - name: obj/W_EX010_40_WI.a.us
 - name: remastered/obj/W_EX010_40.mdlx/-0.dds
   method: copy
   source:
